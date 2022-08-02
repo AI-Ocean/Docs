@@ -8,6 +8,7 @@ permalink: /
 
 # Welcome to the Ocean Documentation
 
-Ocean is GPU cluster management servie.
+For fast and easy Machine learning experiments!
+Ocean can help you for this.
 
 Follow the Quick Start guide to get started.
