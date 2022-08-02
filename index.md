@@ -11,4 +11,4 @@ permalink: /
 For fast and easy Machine learning experiments!
 Ocean can help you for this.
 
-Follow the Quick Start guide to get started.
+Follow the [Quick Start](/docs/Quickstart.md) guide to get started.
