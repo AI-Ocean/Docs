@@ -53,5 +53,5 @@ Volume is remote storage in Ocean that store your source code or dataset. Volume
 
 ![Volume List](/assets/images/Quickstart/volume-list.png)
 
-## Create a new Instace
+## Create a new Instance
 

@@ -1,4 +1,9 @@
 title: "Ocean"
 remote_theme: just-the-docs/just-the-docs
-color_scheme: "dark"
+logo: "/assets/images/logo.ico"
+color_scheme: "light"
 search_enabled: true
+
+footer_content: "Copyright &copy; 2020-2022 AI-Ocean."
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
