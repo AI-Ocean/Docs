@@ -15,7 +15,7 @@ Ocean Quick Start will follow the content.
 
 Go to the ocean domain and register as a member.
 
-![Registration](/assets/images/Quickstart/Registration.png)
+![Registration](/assets/images/Quickstart/registration.png)
 
 ## Basic Page configuration
 
@@ -33,7 +33,7 @@ First, you can requests the `quota` of `machine types` to use.
 2. Select the machine type in available machine types list.
 3. Set number of requests, preiod, object and click request button.
 
-![Quota Request](/assets/images/Quickstart/quota-request.png)
+    ![Quota Request](/assets/images/Quickstart/quota-request.png)
 
 4. You can check your quota request list in Main area of Quota Request page. You should wait for the response from the admin to accept or reject your quota request and it also displayed.
 5. If you want to cancel the quota request, click `Cancel` button.
@@ -46,7 +46,7 @@ Volume is remote storage in Ocean that store your source code or dataset. Volume
 1. In Menu-bar, Click Volumes > Add new Volume button to open the new volume dialog.
 2. Fill the new volume name, object and capacity, Click `Create` button.
 
-![Create Volume](/assets/images/Quickstart/create-volume.png)
+    ![Create Volume](/assets/images/Quickstart/create-volume.png)
 
 3. You can check your volume list in Main area of Volumes page. You also can check where the volume is mounted in `Where to use` field.
 4. If you want to delete the volume, click `Delete` button. But if it is mounted in some where, then you cannot delete the volume.
